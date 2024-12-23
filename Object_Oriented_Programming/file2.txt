@@ -1,0 +1,3 @@
+Another file to test.
+This one also mentions the wanted word.
+But in this file thread is in the third line.
